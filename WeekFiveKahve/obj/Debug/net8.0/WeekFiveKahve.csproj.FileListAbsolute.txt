@@ -1,0 +1,14 @@
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/bin/Debug/net8.0/WeekFiveKahve
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/bin/Debug/net8.0/WeekFiveKahve.deps.json
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/bin/Debug/net8.0/WeekFiveKahve.runtimeconfig.json
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/bin/Debug/net8.0/WeekFiveKahve.dll
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/bin/Debug/net8.0/WeekFiveKahve.pdb
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/obj/Debug/net8.0/WeekFiveKahve.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/obj/Debug/net8.0/WeekFiveKahve.AssemblyInfoInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/obj/Debug/net8.0/WeekFiveKahve.AssemblyInfo.cs
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/obj/Debug/net8.0/WeekFiveKahve.csproj.CoreCompileInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/obj/Debug/net8.0/WeekFiveKahve.dll
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/obj/Debug/net8.0/refint/WeekFiveKahve.dll
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/obj/Debug/net8.0/WeekFiveKahve.pdb
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/obj/Debug/net8.0/WeekFiveKahve.genruntimeconfig.cache
+/Users/ahmetemreari/Desktop/Projeler/WeekFiveKahve/WeekFiveKahve/obj/Debug/net8.0/ref/WeekFiveKahve.dll
